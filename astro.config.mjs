@@ -3,7 +3,6 @@ import mdx from '@astrojs/mdx';
 import sitemap from '@astrojs/sitemap';
 import tailwind from '@astrojs/tailwind';
 import { remarkReadingTime } from './src/utils/readTime.ts';
-import starlight from "@astrojs/starlight";
 import expressiveCode from "astro-expressive-code";
 
 import vercel from "@astrojs/vercel/serverless";
